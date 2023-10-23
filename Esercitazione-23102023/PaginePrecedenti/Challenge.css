@@ -1,0 +1,44 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&family=Prata&display=swap');
+ 
+ body {
+    margin: 0%;
+ }
+
+.main-section {
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+#nomeimg {
+    font-family: 'prata';
+}
+
+#nomeimg {
+    font-size: 15px;
+}
+
+h1, h3 {
+    font-family: 'Prata';
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#testo-principale {
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.testo-secondario {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    margin: 15px;
+}
